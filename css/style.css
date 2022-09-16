@@ -1,0 +1,84 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.hea{
+     background-image:linear-gradient(rgba(0,0,0,0.9), rgba(0,0,0,0.7)), url(images.jpeg); background-size: cover;
+    opacity: 80%;
+    height: 590px;
+}
+.main li{
+    display: inline-block;
+    padding: 18px;
+    padding-top: 10px;
+    text-decoration: none;
+}
+.main li a{
+    text-decoration: none;
+    text-decoration: none;
+}
+.bar{
+    background: none;
+    padding: 10px 10px 10px 10px;
+    border-color: white;
+}
+.aa{
+    padding: 8px 8px 8px 8px;
+    background: none;
+}
+.cl li{
+    display: inline-block;
+    padding: 8px;
+    
+}
+.cl{
+    margin-top: -55px;
+    float: right;
+    padding-right: 20px;
+}
+.cla{
+    
+     padding-top: 2vh;
+    padding-bottom: 7vh;
+    margin-top: 50px;
+    border-radius: 10px;
+    
+    
+
+    opacity: 70%;
+position: absolute;
+    left: 100vh;
+margin-left: 50px;
+    height: 60vh;
+    width: 67vh;
+    padding-bottom: -13vh;
+    float: left;
+}
+.vv{
+    padding-top: 0px;
+    text-align: center;
+}
+.vv li{
+    display: inline-block;
+    padding: 40px;
+}
+.href{
+    padding: 13px 13px 13px 13px;
+    color:deepskyblue;
+    background: none;
+    border:  solid deepskyblue;
+    font-family: monospace;
+    text-decoration: none;
+}
+.href:hover{
+    background-color: deepskyblue;
+    color: white;
+}
+.ull{
+    padding-top: 30px;
+}
+.ull li{
+    padding: 13px;
+    display: inline-block;
+}
